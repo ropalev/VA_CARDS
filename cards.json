@@ -1,132 +1,354 @@
-{
-  "auto_listening": true,
-  "type": "sdk_answer",
-  "items": [
+[
   {
     "card": {
+      "type": "list_card",
       "cells": [
         {
+          "right": null,
+          "divider": {
+            "style": "default",
+            "size": "d2"
+          },
+          "actions": null,
+          "log_id": null,
+          "paddings": null,
+          "type": "left_right_cell_view",
           "left": {
+            "icon": null,
             "texts": {
               "title": {
                 "text": "Тестируем дивайдер",
                 "typeface": "title1",
                 "text_color": "default",
-                "max_lines": 0,
                 "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
                   "right": "0x",
-                  "left": "8x"
-                }
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
               },
               "subtitle": {
-                "text": "D222",
+                "text": "True",
                 "typeface": "footnote1",
                 "text_color": "secondary",
-                "max_lines": 0,
                 "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
                   "right": "0x",
-                  "left": "6x"
-                }
-              }
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "caption": null,
+              "margins": null
             },
             "icon_vertical_gravity": "center",
+            "title": null,
             "type": "simple_left_view"
-          },
+          }
+        },
+        {
+          "right": null,
+          "divider": null,
+          "actions": null,
+          "log_id": null,
+          "paddings": null,
+          "type": "left_right_cell_view",
+          "left": {
+            "icon": null,
+            "texts": {
+              "title": {
+                "text": "Тестируем дивайдер",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "subtitle": {
+                "text": "False",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "caption": null,
+              "margins": null
+            },
+            "icon_vertical_gravity": "center",
+            "title": null,
+            "type": "simple_left_view"
+          }
+        },
+        {
+          "right": null,
+          "divider": null,
+          "actions": null,
+          "log_id": null,
+          "paddings": null,
+          "type": "left_right_cell_view",
+          "left": {
+            "icon": null,
+            "texts": {
+              "title": {
+                "text": "Тестируем дивайдер без дивайдера",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "subtitle": null,
+              "caption": null,
+              "margins": null
+            },
+            "icon_vertical_gravity": "center",
+            "title": null,
+            "type": "simple_left_view"
+          }
+        },
+        {
+          "right": null,
           "divider": {
             "style": "default",
             "size": "d2"
           },
-          "type": "left_right_cell_view"
+          "actions": null,
+          "log_id": null,
+          "paddings": null,
+          "type": "left_right_cell_view",
+          "left": {
+            "icon": null,
+            "texts": {
+              "title": {
+                "text": "Проверка отступов",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "subtitle": {
+                "text": "Есть divider",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "caption": null,
+              "margins": null
+            },
+            "icon_vertical_gravity": "center",
+            "title": null,
+            "type": "simple_left_view"
+          }
         },
         {
+          "right": null,
+          "divider": {
+            "style": "default",
+            "size": "d4"
+          },
+          "actions": null,
+          "log_id": null,
+          "paddings": null,
+          "type": "left_right_cell_view",
           "left": {
             "icon": {
               "address": {
-                "type": "local",
-                "identificator": "color_spasibo"
+                "identificator": "user_on_user",
+                "type": "local"
               },
               "size": {
                 "width": "medium",
                 "height": "medium"
               },
               "margins": {
-                "right": "8x",
-                "left": "6x"
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
               },
-              "tint_color": "solid_brand"
+              "tint_color": "solid_brand",
+              "actions": null
             },
             "texts": {
               "title": {
-                "text": "Тестируем дивайдер",
+                "text": "Проверка отступов c иконкой",
                 "typeface": "title1",
                 "text_color": "default",
-                "max_lines": 0
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
               },
               "subtitle": {
-                "text": "D4",
+                "text": "Есть divider",
                 "typeface": "footnote1",
                 "text_color": "secondary",
-                "max_lines": 0
-              }
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "caption": null,
+              "margins": null
             },
             "icon_vertical_gravity": "center",
+            "title": null,
             "type": "simple_left_view"
-          },
-          "divider": {
-            "style": "default",
-            "size": "d4"
-          },
-          "type": "left_right_cell_view"
+          }
         },
         {
-          "right": {
-            "type": "disclosure_right_view",
-            "margins": {
-              "right": "0x"
-            }
-          },
+          "right": null,
+          "divider": null,
+          "actions": null,
+          "log_id": null,
+          "paddings": null,
+          "type": "left_right_cell_view",
           "left": {
+            "icon": null,
             "texts": {
               "title": {
-                "text": "Тестируем дивайдер",
+                "text": "Проверка отступов",
                 "typeface": "title1",
                 "text_color": "default",
-                "max_lines": 0
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
               },
               "subtitle": {
-                "text": "D4",
+                "text": "Нет divider",
                 "typeface": "footnote1",
                 "text_color": "secondary",
-                "max_lines": 0
-              }
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "caption": null,
+              "margins": null
             },
             "icon_vertical_gravity": "center",
+            "title": null,
             "type": "simple_left_view"
-          },
-          "divider": {
-            "style": "default",
-            "size": "d4"
-          },
-          "type": "left_right_cell_view"
+          }
+        },
+        {
+          "right": null,
+          "divider": null,
+          "actions": null,
+          "log_id": null,
+          "paddings": null,
+          "type": "left_right_cell_view",
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand",
+              "actions": null
+            },
+            "texts": {
+              "title": {
+                "text": "Проверка отступов c иконкой",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "subtitle": {
+                "text": "Есть divider",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0,
+                "actions": null
+              },
+              "caption": null,
+              "margins": null
+            },
+            "icon_vertical_gravity": "center",
+            "title": null,
+            "type": "simple_left_view"
+          }
         }
       ],
       "paddings": {
+        "top": "4x",
         "bottom": "4x",
-        "left": "2x",
-        "right": "8x",
-        "top": "4x"
-      },
-      "background_color": "card_background",
-      "can_be_disabled": false,
-      "type": "list_card"
-    }
-  },
-  {
-    "bubble": {
-      "text": "Начало левого отступа",
-      "markdown": false,
-      "expand_policy": "auto_expand"
+        "left": "8x",
+        "right": "8x"
+      }
     }
   }
 ]
-}
