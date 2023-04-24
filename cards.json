@@ -42,8 +42,8 @@
                 "height": "medium"
               },
               "margins": {
-                "right": "14x",
-                "left": "0x"
+                "right": "8x",
+                "left": "6x"
               },
               "tint_color": "solid_brand"
             },
@@ -52,7 +52,11 @@
                 "text": "Тестируем дивайдер",
                 "typeface": "title1",
                 "text_color": "default",
-                "max_lines": 0
+                "max_lines": 0,
+                "margins": {
+                  "right": "0x",
+                  "left": "6x"
+                },
               },
               "subtitle": {
                 "text": "D4",
@@ -104,7 +108,7 @@
       ],
       "paddings": {
         "bottom": "4x",
-        "left": "8x",
+        "left": "2x",
         "right": "8x",
         "top": "4x"
       },
