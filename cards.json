@@ -13,12 +13,20 @@
                 "typeface": "title1",
                 "text_color": "default",
                 "max_lines": 0,
+                "margins": {
+                  "right": "4x",
+                  "left": "4x"
+                }
               },
               "subtitle": {
-                "text": "D1",
+                "text": "D4",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "max_lines": 0,
+                "margins": {
+                  "right": "4x",
+                  "left": "4x"
+                }
               }
             },
             "icon_vertical_gravity": "center",
@@ -26,7 +34,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d1"
+            "size": "d4"
           },
           "type": "left_right_cell_view"
         },
@@ -42,7 +50,7 @@
                 "height": "medium"
               },
               "margins": {
-                "right": "14x",
+                "right": "7x",
                 "left": "0x"
               },
               "tint_color": "solid_brand"
@@ -53,12 +61,20 @@
                 "typeface": "title1",
                 "text_color": "default",
                 "max_lines": 0,
+                "margins": {
+                  "right": "4x",
+                  "left": "4x"
+                }
               },
               "subtitle": {
                 "text": "D4",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "max_lines": 0,
+                "margins": {
+                  "right": "4x",
+                  "left": "4x"
+                }
               }
             },
             "icon_vertical_gravity": "center",
@@ -84,12 +100,20 @@
                 "typeface": "title1",
                 "text_color": "default",
                 "max_lines": 0,
+                "margins": {
+                  "right": "4x",
+                  "left": "4x"
+                }
               },
               "subtitle": {
                 "text": "D4",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "max_lines": 0,
+                "margins": {
+                  "right": "4x",
+                  "left": "4x"
+                }
               }
             },
             "icon_vertical_gravity": "center",
