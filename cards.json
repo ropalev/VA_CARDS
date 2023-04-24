@@ -13,20 +13,12 @@
                 "typeface": "title1",
                 "text_color": "default",
                 "max_lines": 0,
-                "margins": {
-                  "right": "4x",
-                  "left": "4x"
-                }
               },
               "subtitle": {
                 "text": "D1",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "max_lines": 0,
-                "margins": {
-                  "right": "4x",
-                  "left": "4x"
-                }
               }
             },
             "icon_vertical_gravity": "center",
@@ -50,7 +42,7 @@
                 "height": "medium"
               },
               "margins": {
-                "right": "7x",
+                "right": "14x",
                 "left": "0x"
               },
               "tint_color": "solid_brand"
@@ -61,20 +53,12 @@
                 "typeface": "title1",
                 "text_color": "default",
                 "max_lines": 0,
-                "margins": {
-                  "right": "8x",
-                  "left": "8x"
-                }
               },
               "subtitle": {
                 "text": "D4",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "max_lines": 0,
-                "margins": {
-                  "right": "6x",
-                  "left": "6x"
-                }
               }
             },
             "icon_vertical_gravity": "center",
@@ -100,20 +84,12 @@
                 "typeface": "title1",
                 "text_color": "default",
                 "max_lines": 0,
-                "margins": {
-                  "right": "4x",
-                  "left": "4x"
-                }
               },
               "subtitle": {
                 "text": "D4",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "max_lines": 0,
-                "margins": {
-                  "right": "4x",
-                  "left": "4x"
-                }
               }
             },
             "icon_vertical_gravity": "center",
