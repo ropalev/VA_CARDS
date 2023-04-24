@@ -26,7 +26,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d4"
+            "size": "d2"
           },
           "type": "left_right_cell_view"
         },
@@ -52,11 +52,7 @@
                 "text": "Тестируем дивайдер",
                 "typeface": "title1",
                 "text_color": "default",
-                "max_lines": 0,
-                "margins": {
-                  "right": "0x",
-                  "left": "6x"
-                }
+                "max_lines": 0
               },
               "subtitle": {
                 "text": "D4",
