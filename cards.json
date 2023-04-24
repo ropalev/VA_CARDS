@@ -1,4 +1,7 @@
-[
+{
+  "auto_listening": true,
+  "type": "sdk_answer",
+  "items": [
   {
     "card": {
       "type": "list_card",
@@ -352,3 +355,4 @@
     }
   }
 ]
+}
