@@ -9,12 +9,12 @@
           "left": {
             "texts": {
               "title": {
-                "text": "Тестируем дивайдер 2",
+                "text": "Тестируем дивайдер",
                 "typeface": "title1",
                 "text_color": "default",
                 "margins": {
                   "bottom": "0x",
-                  "left": "0x",
+                  "left": "4x",
                   "right": "0x",
                   "top": "0x"
                 },
@@ -38,7 +38,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d1"
+            "size": "d2"
           },
           "type": "left_right_cell_view"
         },
@@ -146,7 +146,7 @@
               },
               "margins": {
                 "bottom": "0x",
-                "left": "0x",
+                "left": "4x",
                 "right": "6x",
                 "top": "0x"
               },
@@ -233,7 +233,7 @@
               },
               "margins": {
                 "bottom": "0x",
-                "left": "0x",
+                "left": "4x",
                 "right": "6x",
                 "top": "0x"
               },
