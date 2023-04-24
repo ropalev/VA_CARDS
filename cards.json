@@ -46,6 +46,43 @@
           "left": {
             "texts": {
               "title": {
+                "text": "Тестируем дивайдер d2",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "True",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d2"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "texts": {
+              "title": {
                 "text": "Тестируем дивайдер",
                 "typeface": "title1",
                 "text_color": "default",
