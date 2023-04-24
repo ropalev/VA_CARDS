@@ -12,13 +12,21 @@
                 "text": "Тестируем дивайдер",
                 "typeface": "title1",
                 "text_color": "default",
-                "max_lines": 0
+                "max_lines": 0,
+                "margins": {
+                  "right": "0x",
+                  "left": "8x"
+                },
               },
               "subtitle": {
                 "text": "D2",
                 "typeface": "footnote1",
                 "text_color": "secondary",
-                "max_lines": 0
+                "max_lines": 0,
+                "margins": {
+                  "right": "0x",
+                  "left": "6x"
+                },
               }
             },
             "icon_vertical_gravity": "center",
