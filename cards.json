@@ -4,20 +4,9 @@
   "items": [
   {
     "card": {
-      "type": "list_card",
       "cells": [
         {
-          "right": null,
-          "divider": {
-            "style": "default",
-            "size": "d2"
-          },
-          "actions": null,
-          "log_id": null,
-          "paddings": null,
-          "type": "left_right_cell_view",
           "left": {
-            "icon": null,
             "texts": {
               "title": {
                 "text": "Тестируем дивайдер",
@@ -29,8 +18,7 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
+                "max_lines": 0
               },
               "subtitle": {
                 "text": "True",
@@ -42,26 +30,20 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
-              },
-              "caption": null,
-              "margins": null
+                "max_lines": 0
+              }
             },
             "icon_vertical_gravity": "center",
-            "title": null,
             "type": "simple_left_view"
-          }
+          },
+          "divider": {
+            "style": "default",
+            "size": "d2"
+          },
+          "type": "left_right_cell_view"
         },
         {
-          "right": null,
-          "divider": null,
-          "actions": null,
-          "log_id": null,
-          "paddings": null,
-          "type": "left_right_cell_view",
           "left": {
-            "icon": null,
             "texts": {
               "title": {
                 "text": "Тестируем дивайдер",
@@ -73,11 +55,10 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
+                "max_lines": 0
               },
               "subtitle": {
-                "text": "False",
+                "text": "false",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "margins": {
@@ -86,26 +67,16 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
-              },
-              "caption": null,
-              "margins": null
+                "max_lines": 0
+              }
             },
             "icon_vertical_gravity": "center",
-            "title": null,
             "type": "simple_left_view"
-          }
+          },
+          "type": "left_right_cell_view"
         },
         {
-          "right": null,
-          "divider": null,
-          "actions": null,
-          "log_id": null,
-          "paddings": null,
-          "type": "left_right_cell_view",
           "left": {
-            "icon": null,
             "texts": {
               "title": {
                 "text": "Тестируем дивайдер без дивайдера",
@@ -117,30 +88,16 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
-              },
-              "subtitle": null,
-              "caption": null,
-              "margins": null
+                "max_lines": 0
+              }
             },
             "icon_vertical_gravity": "center",
-            "title": null,
             "type": "simple_left_view"
-          }
+          },
+          "type": "left_right_cell_view"
         },
         {
-          "right": null,
-          "divider": {
-            "style": "default",
-            "size": "d2"
-          },
-          "actions": null,
-          "log_id": null,
-          "paddings": null,
-          "type": "left_right_cell_view",
           "left": {
-            "icon": null,
             "texts": {
               "title": {
                 "text": "Проверка отступов",
@@ -152,8 +109,7 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
+                "max_lines": 0
               },
               "subtitle": {
                 "text": "Есть divider",
@@ -165,27 +121,19 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
-              },
-              "caption": null,
-              "margins": null
+                "max_lines": 0
+              }
             },
             "icon_vertical_gravity": "center",
-            "title": null,
             "type": "simple_left_view"
-          }
-        },
-        {
-          "right": null,
+          },
           "divider": {
             "style": "default",
-            "size": "d4"
+            "size": "d2"
           },
-          "actions": null,
-          "log_id": null,
-          "paddings": null,
-          "type": "left_right_cell_view",
+          "type": "left_right_cell_view"
+        },
+        {
           "left": {
             "icon": {
               "address": {
@@ -198,12 +146,11 @@
               },
               "margins": {
                 "bottom": "0x",
-                "left": "0x",
+                "left": "4x",
                 "right": "6x",
                 "top": "0x"
               },
-              "tint_color": "solid_brand",
-              "actions": null
+              "tint_color": "solid_brand"
             },
             "texts": {
               "title": {
@@ -216,8 +163,7 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
+                "max_lines": 0
               },
               "subtitle": {
                 "text": "Есть divider",
@@ -229,26 +175,20 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
-              },
-              "caption": null,
-              "margins": null
+                "max_lines": 0
+              }
             },
             "icon_vertical_gravity": "center",
-            "title": null,
             "type": "simple_left_view"
-          }
+          },
+          "divider": {
+            "style": "default",
+            "size": "d4"
+          },
+          "type": "left_right_cell_view"
         },
         {
-          "right": null,
-          "divider": null,
-          "actions": null,
-          "log_id": null,
-          "paddings": null,
-          "type": "left_right_cell_view",
           "left": {
-            "icon": null,
             "texts": {
               "title": {
                 "text": "Проверка отступов",
@@ -260,8 +200,7 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
+                "max_lines": 0
               },
               "subtitle": {
                 "text": "Нет divider",
@@ -273,24 +212,15 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
-              },
-              "caption": null,
-              "margins": null
+                "max_lines": 0
+              }
             },
             "icon_vertical_gravity": "center",
-            "title": null,
             "type": "simple_left_view"
-          }
+          },
+          "type": "left_right_cell_view"
         },
         {
-          "right": null,
-          "divider": null,
-          "actions": null,
-          "log_id": null,
-          "paddings": null,
-          "type": "left_right_cell_view",
           "left": {
             "icon": {
               "address": {
@@ -303,12 +233,11 @@
               },
               "margins": {
                 "bottom": "0x",
-                "left": "0x",
+                "left": "4x",
                 "right": "6x",
                 "top": "0x"
               },
-              "tint_color": "solid_brand",
-              "actions": null
+              "tint_color": "solid_brand"
             },
             "texts": {
               "title": {
@@ -321,8 +250,7 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
+                "max_lines": 0
               },
               "subtitle": {
                 "text": "Есть divider",
@@ -334,24 +262,31 @@
                   "right": "0x",
                   "top": "0x"
                 },
-                "max_lines": 0,
-                "actions": null
-              },
-              "caption": null,
-              "margins": null
+                "max_lines": 0
+              }
             },
             "icon_vertical_gravity": "center",
-            "title": null,
             "type": "simple_left_view"
-          }
+          },
+          "type": "left_right_cell_view"
         }
       ],
       "paddings": {
-        "top": "4x",
         "bottom": "4x",
-        "left": "8x",
-        "right": "8x"
-      }
+        "left": "4x",
+        "right": "8x",
+        "top": "4x"
+      },
+      "background_color": "card_background",
+      "can_be_disabled": false,
+      "type": "list_card"
+    }
+  },
+  {
+    "bubble": {
+      "text": "Начало левого отступа",
+      "markdown": false,
+      "expand_policy": "auto_expand"
     }
   }
 ]
