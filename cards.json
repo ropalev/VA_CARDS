@@ -19,7 +19,7 @@
                 }
               },
               "subtitle": {
-                "text": "D4",
+                "text": "D1",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "max_lines": 0,
@@ -34,7 +34,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d4"
+            "size": "d1"
           },
           "type": "left_right_cell_view"
         },
@@ -62,8 +62,8 @@
                 "text_color": "default",
                 "max_lines": 0,
                 "margins": {
-                  "right": "4x",
-                  "left": "4x"
+                  "right": "8x",
+                  "left": "8x"
                 }
               },
               "subtitle": {
@@ -72,8 +72,8 @@
                 "text_color": "secondary",
                 "max_lines": 0,
                 "margins": {
-                  "right": "4x",
-                  "left": "4x"
+                  "right": "6x",
+                  "left": "6x"
                 }
               }
             },
