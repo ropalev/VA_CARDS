@@ -14,7 +14,7 @@
                 "text_color": "default",
                 "margins": {
                   "bottom": "0x",
-                  "left": "4x",
+                  "left": "0x",
                   "right": "0x",
                   "top": "0x"
                 },
@@ -146,7 +146,7 @@
               },
               "margins": {
                 "bottom": "0x",
-                "left": "4x",
+                "left": "0x",
                 "right": "6x",
                 "top": "0x"
               },
@@ -233,7 +233,7 @@
               },
               "margins": {
                 "bottom": "0x",
-                "left": "4x",
+                "left": "0x",
                 "right": "6x",
                 "top": "0x"
               },
@@ -273,7 +273,7 @@
       ],
       "paddings": {
         "bottom": "4x",
-        "left": "4x",
+        "left": "8x",
         "right": "8x",
         "top": "4x"
       },
