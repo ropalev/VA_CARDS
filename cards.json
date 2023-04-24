@@ -9,7 +9,7 @@
           "left": {
             "texts": {
               "title": {
-                "text": "Тестируем дивайдер",
+                "text": "Тестируем дивайдер в1",
                 "typeface": "title1",
                 "text_color": "default",
                 "margins": {
@@ -38,7 +38,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d2"
+            "size": "d1"
           },
           "type": "left_right_cell_view"
         },
