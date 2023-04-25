@@ -190,7 +190,7 @@
               },
               "margins": {
                 "bottom": "0x",
-                "left": "0x",
+                "left": "4x",
                 "right": "6x",
                 "top": "0x"
               },
