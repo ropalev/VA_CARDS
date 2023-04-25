@@ -9,7 +9,7 @@
           "left": {
             "texts": {
               "title": {
-                "text": "Тестируем дивайдер в1",
+                "text": "Тестируем дивайдер вd1",
                 "typeface": "title1",
                 "text_color": "default",
                 "margins": {
@@ -26,7 +26,7 @@
                 "text_color": "secondary",
                 "margins": {
                   "bottom": "0x",
-                  "left": "4x",
+                  "left": "0x",
                   "right": "0x",
                   "top": "0x"
                 },
