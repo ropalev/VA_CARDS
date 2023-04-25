@@ -1307,6 +1307,330 @@
             "size": "d6"
           },
           "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "8x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа и без отступа справа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d1"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "8x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа и без отступа справа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d2"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "8x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа и без отступа справа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d3"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "8x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа и без отступа справа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d4"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "8x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа и без отступа справа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d5"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "8x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа и без отступа справа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d6"
+          },
+          "type": "left_right_cell_view"
         }
       ],
       "paddings": {
