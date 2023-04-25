@@ -45,7 +45,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d1"
+            "size": "d2"
           },
           "type": "left_right_cell_view"
         },
@@ -82,7 +82,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d2"
+            "size": "d1"
           },
           "type": "left_right_cell_view"
         },
