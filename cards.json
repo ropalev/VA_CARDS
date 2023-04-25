@@ -45,7 +45,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d2"
+            "size": "d3"
           },
           "type": "left_right_cell_view"
         },
@@ -317,7 +317,7 @@
       ],
       "paddings": {
         "bottom": "4x",
-        "left": "0x",
+        "left": "8x",
         "right": "8x",
         "top": "4x"
       },
