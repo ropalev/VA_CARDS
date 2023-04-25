@@ -62,7 +62,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d6"
+            "size": "d4"
           },
           "type": "left_right_cell_view"
         }
