@@ -4,7 +4,7 @@
   "items": [
   {
     "bubble": {
-      "text": "Проверка ублюдских дивайдеров №12342",
+      "text": "Проверка дивайдеров №12343",
       "markdown": false,
       "expand_policy": "auto_expand"
     }
@@ -33,7 +33,7 @@
             },
             "texts": {
               "title": {
-                "text": "Padding gпо бокам 4, иконка 12 справа, текст 0",
+                "text": "Padding по бокам 4, иконка 12 справа, текст 0",
                 "typeface": "body1",
                 "text_color": "default",
                 "margins": {
@@ -70,75 +70,6 @@
       "paddings": {
         "bottom": "4x",
         "left": "8x",
-        "right": "8x",
-        "top": "4x"
-      },
-      "background_color": "card_background",
-      "can_be_disabled": false,
-      "type": "list_card"
-    }
-  },
-    {
-    "card": {
-      "cells": [
-        {
-          "left": {
-            "icon": {
-              "address": {
-                "identificator": "user_on_user",
-                "type": "local"
-              },
-              "size": {
-                "width": "medium",
-                "height": "medium"
-              },
-              "margins": {
-                "bottom": "0x",
-                "left": "8x",
-                "right": "8x",
-                "top": "0x"
-              },
-              "tint_color": "solid_brand"
-            },
-            "texts": {
-              "title": {
-                "text": "Padding по бокам 0, иконка 12 справа, текст 0",
-                "typeface": "body1",
-                "text_color": "default",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "0x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              },
-              "subtitle": {
-                "text": "Divider d3",
-                "typeface": "footnote1",
-                "text_color": "secondary",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "0x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              }
-            },
-            "icon_vertical_gravity": "center",
-            "type": "simple_left_view"
-          },
-          "divider": {
-            "style": "default",
-            "size": "d6"
-          },
-          "type": "left_right_cell_view"
-        }
-      ],
-      "paddings": {
-        "bottom": "4x",
-        "left": "0x",
         "right": "8x",
         "top": "4x"
       },
