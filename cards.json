@@ -4,7 +4,7 @@
   "items": [
   {
     "bubble": {
-      "text": "Начало левого отступа",
+      "text": "Проверка ублюдских дивайдеров №12342",
       "markdown": false,
       "expand_policy": "auto_expand"
     }
@@ -14,46 +14,26 @@
       "cells": [
         {
           "left": {
-            "texts": {
-              "title": {
-                "text": "Тестируем дивайдер ",
-                "typeface": "title1",
-                "text_color": "default",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "4x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
               },
-              "subtitle": {
-                "text": "True",
-                "typeface": "footnote1",
-                "text_color": "secondary",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "0x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              }
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "4x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
             },
-            "icon_vertical_gravity": "center",
-            "type": "simple_left_view"
-          },
-          "divider": {
-            "style": "default",
-            "size": "d3"
-          },
-          "type": "left_right_cell_view"
-        },
-        {
-          "left": {
             "texts": {
               "title": {
-                "text": "Тестируем дивайдер d2",
+                "text": "Иконка с отступом 4х",
                 "typeface": "title1",
                 "text_color": "default",
                 "margins": {
@@ -65,12 +45,12 @@
                 "max_lines": 0
               },
               "subtitle": {
-                "text": "True",
+                "text": "D1",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "margins": {
                   "bottom": "0x",
-                  "left": "0x",
+                  "left": "4x",
                   "right": "0x",
                   "top": "0x"
                 },
@@ -88,9 +68,26 @@
         },
         {
           "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "4x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
             "texts": {
               "title": {
-                "text": "Тестируем дивайдер",
+                "text": "Иконка с отступом 4х",
                 "typeface": "title1",
                 "text_color": "default",
                 "margins": {
@@ -102,61 +99,7 @@
                 "max_lines": 0
               },
               "subtitle": {
-                "text": "false",
-                "typeface": "footnote1",
-                "text_color": "secondary",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "4x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              }
-            },
-            "icon_vertical_gravity": "center",
-            "type": "simple_left_view"
-          },
-          "type": "left_right_cell_view"
-        },
-        {
-          "left": {
-            "texts": {
-              "title": {
-                "text": "Тестируем дивайдер без дивайдера",
-                "typeface": "title1",
-                "text_color": "default",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "4x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              }
-            },
-            "icon_vertical_gravity": "center",
-            "type": "simple_left_view"
-          },
-          "type": "left_right_cell_view"
-        },
-        {
-          "left": {
-            "texts": {
-              "title": {
-                "text": "Проверка отступов",
-                "typeface": "title1",
-                "text_color": "default",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "4x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              },
-              "subtitle": {
-                "text": "Есть divider",
+                "text": "D2",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "margins": {
@@ -198,7 +141,7 @@
             },
             "texts": {
               "title": {
-                "text": "Проверка отступов c иконкой",
+                "text": "Иконка с отступом 4х",
                 "typeface": "title1",
                 "text_color": "default",
                 "margins": {
@@ -210,7 +153,7 @@
                 "max_lines": 0
               },
               "subtitle": {
-                "text": "Есть divider",
+                "text": "D3",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "margins": {
@@ -227,40 +170,7 @@
           },
           "divider": {
             "style": "default",
-            "size": "d4"
-          },
-          "type": "left_right_cell_view"
-        },
-        {
-          "left": {
-            "texts": {
-              "title": {
-                "text": "Проверка отступов",
-                "typeface": "title1",
-                "text_color": "default",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "4x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              },
-              "subtitle": {
-                "text": "Нет divider",
-                "typeface": "footnote1",
-                "text_color": "secondary",
-                "margins": {
-                  "bottom": "0x",
-                  "left": "4x",
-                  "right": "0x",
-                  "top": "0x"
-                },
-                "max_lines": 0
-              }
-            },
-            "icon_vertical_gravity": "center",
-            "type": "simple_left_view"
+            "size": "d3"
           },
           "type": "left_right_cell_view"
         },
@@ -285,7 +195,7 @@
             },
             "texts": {
               "title": {
-                "text": "Проверка отступов c иконкой",
+                "text": "Иконка с отступом 4х",
                 "typeface": "title1",
                 "text_color": "default",
                 "margins": {
@@ -297,7 +207,7 @@
                 "max_lines": 0
               },
               "subtitle": {
-                "text": "Есть divider",
+                "text": "D4",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "margins": {
@@ -311,6 +221,442 @@
             },
             "icon_vertical_gravity": "center",
             "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d4"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "4x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка с отступом 4х",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D5",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d5"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "4x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка с отступом 4х",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d6"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D1",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d1"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D2",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d2"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D3",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d3"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D4",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d4"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D5",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d5"
+          },
+          "type": "left_right_cell_view"
+        },
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
+              },
+              "size": {
+                "width": "medium",
+                "height": "medium"
+              },
+              "margins": {
+                "bottom": "0x",
+                "left": "0x",
+                "right": "6x",
+                "top": "0x"
+              },
+              "tint_color": "solid_brand"
+            },
+            "texts": {
+              "title": {
+                "text": "Иконка без отступа",
+                "typeface": "title1",
+                "text_color": "default",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              },
+              "subtitle": {
+                "text": "D6",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "4x",
+                  "right": "0x",
+                  "top": "0x"
+                },
+                "max_lines": 0
+              }
+            },
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
+          },
+          "divider": {
+            "style": "default",
+            "size": "d6"
           },
           "type": "left_right_cell_view"
         }
