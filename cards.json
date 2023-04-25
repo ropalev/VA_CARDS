@@ -3,6 +3,13 @@
   "type": "sdk_answer",
   "items": [
   {
+    "bubble": {
+      "text": "Начало левого отступа",
+      "markdown": false,
+      "expand_policy": "auto_expand"
+    }
+  },
+  {
     "card": {
       "cells": [
         {
@@ -317,13 +324,6 @@
       "background_color": "card_background",
       "can_be_disabled": false,
       "type": "list_card"
-    }
-  },
-  {
-    "bubble": {
-      "text": "Начало левого отступа",
-      "markdown": false,
-      "expand_policy": "auto_expand"
     }
   }
 ]
