@@ -33,7 +33,7 @@
           },
           "texts": {
             "title": {
-              "text": "Padding по бокам 8, иконка 12 справа, текст 0",
+              "text": "Padding по бокам",
               "typeface": "body1",
               "text_color": "default",
               "max_lines": 0
