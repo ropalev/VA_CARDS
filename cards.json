@@ -211,13 +211,7 @@
               ],
               "typeface": null,
               "style": "default",
-              "type": "accept",
-              "margins": {
-                "bottom": "5x",
-                "left": "10x",
-                "right": "10x",
-                "top": "5x"
-              }
+              "type": "accept"
             },
             "paddings": {
               "bottom": "4x",
