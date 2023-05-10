@@ -2,14 +2,7 @@
   "auto_listening": true,
   "type": "sdk_answer",
   "items": [
-  {
-    "bubble": {
-      "text": "Проверка дивайдеров №12343",
-      "markdown": false,
-      "expand_policy": "auto_expand"
-    }
-  },
-  {
+    {
       "card": {
         "type": "list_card",
         "cells": [
@@ -150,7 +143,7 @@
             "divider": null,
             "actions": [
               {
-                "deep_link": "sberbankonline://loyalty/coupons?internal_source=audiohelper712",
+                "deep_link": "sberbankonline://loyalty/coupons?internal_source\u003daudiohelper712",
                 "type": "deep_link"
               }
             ],
@@ -212,7 +205,7 @@
               "text": "Кнопка",
               "actions": [
                 {
-                  "deep_link": "sberbankonline://loyalty/main?internal_source=audiohelper501",
+                  "deep_link": "sberbankonline://loyalty/main?internal_source\u003daudiohelper501",
                   "type": "deep_link"
                 }
               ],
@@ -236,5 +229,5 @@
         ]
       }
     }
-]
+  ]
 }
