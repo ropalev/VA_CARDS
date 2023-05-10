@@ -175,6 +175,8 @@
               "type": "accept",
               "margins": {
                 "bottom": "5x",
+                "left": "10x",
+                "right": "10x",
                 "top": "5x"
               }
             },
