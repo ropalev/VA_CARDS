@@ -26,7 +26,7 @@
             },
             "texts": {
               "title": {
-                "text": "Padding по бокам 8, иконка 12 справа, текст 0",
+                "text": "Проверка",
                 "typeface": "body1",
                 "text_color": "default",
                 "margins": {
@@ -38,7 +38,7 @@
                 "max_lines": 0
               },
               "subtitle": {
-                "text": "Divider d4",
+                "text": "Divider",
                 "typeface": "footnote1",
                 "text_color": "secondary",
                 "margins": {
