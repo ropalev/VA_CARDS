@@ -3,208 +3,73 @@
   "type": "sdk_answer",
   "items": [
     {
-      "card": {
-        "cells": [
-          {
-            "left": {
-              "texts": {
-                "title": {
-                  "text": "Проверка Action",
-                  "typeface": "title1",
-                  "text_color": "default",
-                  "margins": {
-                    "bottom": "0x",
-                    "left": "7x",
-                    "right": "0x",
-                    "top": "0x"
-                  },
-                  "max_lines": 0
-                }
+    "card": {
+      "cells": [
+        {
+          "left": {
+            "icon": {
+              "address": {
+                "identificator": "user_on_user",
+                "type": "local"
               },
-              "icon_vertical_gravity": "center",
-              "type": "simple_left_view"
-            },
-            "paddings": {
-              "bottom": "4x",
-              "left": "0x",
-              "right": "0x",
-              "top": "4x"
-            },
-            "type": "left_right_cell_view"
-          },
-          {
-            "content": {
-              "url": "https://va-res.online.sberbank.ru/VA/icons/quiz/ds_ic_startquiz.png",
-              "hash": "960730060a1e6590a33698f899751036",
-              "height": 192
-            },
-            "type": "image_cell_view"
-          },
-          {
-            "left": {
-              "icon": {
-                "address": {
-                  "identificator": "user_on_user",
-                  "type": "local"
-                },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                },
-                "margins": {
-                  "bottom": "2x",
-                  "left": "7x",
-                  "right": "7x",
-                  "top": "2x"
-                },
-                "tint_color": "solid_brand"
+              "size": {
+                "width": "large",
+                "height": "large"
               },
-              "texts": {
-                "title": {
-                  "text": "Обычная ячейка c раделителем с иконкой",
-                  "typeface": "body1",
-                  "text_color": "default",
-                  "max_lines": 0
-                },
-                "subtitle": {
-                  "text": "Есть divider",
-                  "typeface": "footnote1",
-                  "text_color": "secondary",
-                  "max_lines": 0
-                }
-              },
-              "icon_vertical_gravity": "center",
-              "type": "simple_left_view"
-            },
-            "right": {
               "margins": {
-                "bottom": "2x",
+                "bottom": "0x",
                 "left": "0x",
-                "right": "5x",
-                "top": "2x"
+                "right": "8x",
+                "top": "0x"
               },
-              "type": "disclosure_right_view"
+              "tint_color": "solid_brand"
             },
-            "divider": {
-              "style": "default",
-              "size": "d5"
-            },
-            "actions": [
-              {
-                "text": "Super_text",
-                "type": "text"
-              }
-            ],
-            "paddings": {
-              "bottom": "4x",
-              "left": "0x",
-              "right": "0x",
-              "top": "4x"
-            },
-            "type": "left_right_cell_view"
-          },
-          {
-            "left": {
-              "icon": {
-                "address": {
-                  "identificator": "user_on_user",
-                  "type": "local"
-                },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                },
+            "texts": {
+              "title": {
+                "text": "Padding по бокам 8, иконка 12 справа, текст 0",
+                "typeface": "body1",
+                "text_color": "default",
                 "margins": {
-                  "bottom": "2x",
-                  "left": "7x",
-                  "right": "7x",
-                  "top": "2x"
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
                 },
-                "tint_color": "solid_brand"
+                "max_lines": 0
               },
-              "texts": {
-                "title": {
-                  "text": "Обычная ячейка без раделителя с иконкой и вообще здесь очень длинооооооооооеееееее название",
-                  "typeface": "body1",
-                  "text_color": "default",
-                  "max_lines": 0
+              "subtitle": {
+                "text": "Divider d4",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "0x",
+                  "top": "0x"
                 },
-                "subtitle": {
-                  "text": "Есть divider",
-                  "typeface": "footnote1",
-                  "text_color": "secondary",
-                  "max_lines": 0
-                }
-              },
-              "icon_vertical_gravity": "center",
-              "type": "simple_left_view"
-            },
-            "right": {
-              "margins": {
-                "bottom": "2x",
-                "left": "0x",
-                "right": "5x",
-                "top": "2x"
-              },
-              "type": "disclosure_right_view"
-            },
-            "actions": [
-              {
-                "deep_link": "sberbankonline://loyalty/coupons?internal_source\u003daudiohelper712",
-                "type": "deep_link"
+                "max_lines": 0
               }
-            ],
-            "paddings": {
-              "bottom": "4x",
-              "left": "0x",
-              "right": "0x",
-              "top": "4x"
             },
-            "type": "left_right_cell_view"
+            "icon_vertical_gravity": "center",
+            "type": "simple_left_view"
           },
-          {
-            "content": {
-              "text": "Кнопка",
-              "actions": [
-                {
-                  "deep_link": "sberbankonline://loyalty/main?internal_source\u003daudiohelper501",
-                  "type": "deep_link"
-                }
-              ],
-              "style": "default",
-              "type": "accept",
-              "margins": {
-                "bottom": "5x",
-                "left": "10x",
-                "right": "10x",
-                "top": "5x"
-              }
-            },
-            "paddings": {
-              "bottom": "4x",
-              "left": "7x",
-              "right": "7x",
-              "top": "4x"
-            },
-            "type": "button_cell_view"
-          }
-        ],
-        "paddings": {
-          "bottom": "4x",
-          "right": "0x",
-          "top": "4x"
-        },
-        "background_color": "card_background",
-        "can_be_disabled": false,
-        "type": "list_card"
-      }
-    },
-    {
-      "bubble": {
-        "text": "Начало левого отступа",
-        "markdown": false,
-        "expand_policy": "auto_expand"
-      }
+          "divider": {
+            "style": "default",
+            "size": "d4"
+          },
+          "type": "left_right_cell_view"
+        }
+      ],
+      "paddings": {
+        "bottom": "4x",
+        "left": "8x",
+        "right": "8x",
+        "top": "4x"
+      },
+      "background_color": "card_background",
+      "can_be_disabled": false,
+      "type": "list_card"
     }
+  }
   ]
 }
