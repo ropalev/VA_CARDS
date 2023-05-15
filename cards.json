@@ -13,8 +13,8 @@
                 "type": "local"
               },
               "size": {
-                "width": "large",
-                "height": "large"
+                "width": "medium",
+                "height": "medium"
               },
               "margins": {
                 "bottom": "0x",
