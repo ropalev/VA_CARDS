@@ -19,7 +19,7 @@
               "margins": {
                 "bottom": "0x",
                 "left": "0x",
-                "right": "8x",
+                "right": "12x",
                 "top": "0x"
               },
               "tint_color": "solid_brand"
